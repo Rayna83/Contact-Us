@@ -33,7 +33,9 @@ h1{
 #contact .form-control:focus {
   border-bottom-color: #999999;
 }
-
+ .section-title{
+      margin-top: 5%;
+  }
 #contact input {
   height: 55px;
 }
